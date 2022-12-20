@@ -1,4 +1,5 @@
-import axios from "axios";
+import axios from 'redaxios';
+
 
 const baseURL = "https://back2022-production.up.railway.app/test";
 
